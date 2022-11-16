@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+p {
+  text-align: center;
+}
+
+div {
+  background-color: red;
+  text-align: center;
+}
